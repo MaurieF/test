@@ -1,1 +1,1 @@
-# Testin area
+# Testing area
